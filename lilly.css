@@ -1,0 +1,22 @@
+body{
+	font-family: "Courier New";
+	margin: 20px;
+	background-image: url('mom2.jpg');
+	color: #616999;
+}
+#lil{
+	float: right;
+}
+h2 {
+	background-image: url('mom.jpg');
+	width: 350px;
+	color: #759999;
+	padding-left: 0px;
+}
+dt {
+	margin: 20px;
+	font-weight: bold;
+}
+h2:hover {
+	color: #FFF999;
+}
